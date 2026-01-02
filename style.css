@@ -426,6 +426,7 @@ header {
 .hero {
     height: 90vh;
     background: linear-gradient(to right, #00bcd4, #2196f3);
+    url("images/res.jpg") center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
